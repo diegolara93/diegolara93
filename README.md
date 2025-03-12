@@ -6,7 +6,7 @@ I'm Diego, a 21 year old developer in the Chicago area.
 
 
 ## Experience
-- Incoming Software Engineer Intern @ [Discover](https://www.discover.com/)
+- Incoming Software Engineer Intern @ [Discover](https://www.discover.com/) (June 2025 - Aug. 2025)
 
 ## Education
 - 3rd Year CS Student at Purdue University NW 
