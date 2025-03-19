@@ -2,7 +2,7 @@
 I'm Diego, a 21 year old developer in the Chicago area.
 
 ## 👨‍💻 Skills
-[![My Skills](https://skillicons.dev/icons?i=go,js,ts,py,java,cpp,react,fastapi,docker,aws,next)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=go,js,ts,py,java,cpp,react,spring,fastapi,docker,aws,next)](https://skillicons.dev)
 
 
 ## Experience
