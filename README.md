@@ -9,4 +9,4 @@ I'm Diego, a 21 year old developer in the Chicago area, I am currently looking f
 - Software Engineer Intern @ [Discover](https://www.discover.com/) (June 2025 - Aug. 2025)
 
 ## Education
-- 3rd Year CS Student at Purdue University NW 
+- 4th Year CS Student at Purdue University NW 
