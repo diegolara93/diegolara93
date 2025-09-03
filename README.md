@@ -2,7 +2,7 @@
 I'm Diego, a 21 year old developer in the Chicago area, I am currently looking for 2026 new-grad roles.
 
 ## 👨‍💻 Skills
-[![My Skills](https://skillicons.dev/icons?i=go,js,ts,py,java,react,spring,fastapi,docker,aws,next)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=go,js,ts,py,java,react,spring,fastapi,docker,kubernetes,aws,next)](https://skillicons.dev)
 
 
 ## Experience
