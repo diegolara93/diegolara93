@@ -6,7 +6,8 @@ I'm Diego, a 21 year old developer in the Chicago area, I am currently looking f
 
 
 ## Experience
-- Software Engineer Intern @ [Discover](https://www.discover.com/) (June 2025 - Aug. 2025)
+- Incoming Software Engineer @ [Mastercard](https://www.mastercard.com/us/en.html)🔴🟠 (Aug. 2026)
+- Software Engineer Intern @ [Discover](https://www.discover.com/)🟠⚪ (June 2025 - Aug. 2025)
 
 ## Education
 - 4th Year CS Student at Purdue University NW 
